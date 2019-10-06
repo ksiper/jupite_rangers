@@ -1,0 +1,10 @@
+[package]
+name = "weei-server"
+version = "0.1.1"
+authors = ["chennyweei <cheneiweei@gmail.com>"]
+
+[dependencies]
+serde = "1.0"
+serde_json = "1.0"
+rmp-serde = "0.13.7"
+pub_proto = {path="../pub_proto"}

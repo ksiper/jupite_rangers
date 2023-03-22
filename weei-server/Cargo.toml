@@ -6,5 +6,5 @@ authors = ["chennyweei <cheneiweei@gmail.com>"]
 [dependencies]
 serde = "1.0"
 serde_json = "1.0"
-rmp-serde = "0.13.7"
+rmp-serde = "1.1.1"
 pub_proto = {path="../pub_proto"}
